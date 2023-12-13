@@ -22,14 +22,20 @@ akun idnya = inicontoh
 
 ## Cara Mendapatkan TokenAPI
 Pergi ke halaman Worker and Pages > OverView 
+
 Cari Manage API Tokens, setelah ketemu
+
 > Create Token
+
 > Edit Cloudflare Workers > Use this template
 
 Atur
 Account Resources > Include > akunkamu@gmail.com
+
 Zone Resources > Include > All Zone from an account > akunmu@gmail.com
+
 > Continue to summary > Create token
+
 Copy itu tokennya. simpen 
 
 
