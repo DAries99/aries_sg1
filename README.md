@@ -9,10 +9,6 @@ Hal-hal yang perlu disediakan sebelum kamu memulai!
 3. Telegram (Untuk nyari IP)
 4. Waktu Luang 
 
-## Deploy di pages.dev
-Klik tombol dibawah untuk deploy
-
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
 ## Cara Mendapatkan AccountID
 Liat pada link 
 
@@ -37,6 +33,11 @@ Zone Resources > Include > All Zone from an account > akunmu@gmail.com
 > Continue to summary > Create token
 
 Copy itu tokennya. simpen 
+
+## Kalau Udah Dapat ID Akun Sama Token Berarti Tinggal Deploy di pages.dev !
+Klik tombol dibawah untuk deploy
+
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
 
 
 ## Mengatur UUID
