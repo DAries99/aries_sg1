@@ -11,6 +11,7 @@ Hal-hal yang perlu disediakan sebelum kamu memulai!
 
 ## Deploy di pages.dev
 Klik tombol dibawah untuk deploy
+
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
 
 ## Mengatur UUID
