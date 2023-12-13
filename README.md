@@ -10,8 +10,9 @@ Hal-hal yang perlu disediakan sebelum kamu memulai!
 4. Waktu Luang 
 
 ## Cara Mendapatkan AccountID (CloudFlare)
-Masuk ke cloudflare.com
-Liat pada link berikut
+Masuk ke dash.cloudflare.com
+
+Lalu Lihat pada link berikut
 
 https://dash.cloudflare.com/dbwa6edf7236ef21372dvywd
 
