@@ -52,3 +52,8 @@ Klik tombol dibawah untuk deploy
 
 Catatan: `UUID` adalah UUID yang ingin Anda atur. anda dapat menggunakan tool UUID GENERATOR untuk itu.
 pages.dev dan worker.dev semua metodedi dukung, tetapi bergantung pada metode deploy Anda.
+
+
+#Penggunaan (Setelah semua selesai diatur)
+Pertama, Buka pages.dev domain yang telah anda buat https://NamarepositoriAnda.pages.dev/ di Browser kamu, Lalu kamu dapat melihat laman berikut: Jalurnya(Path) adalah /uuid yang telah anda atur dan akun vless
+`https://NamarepositoriAnda.pages.dev/UUID`
