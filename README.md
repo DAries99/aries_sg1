@@ -9,12 +9,15 @@ Hal-hal yang perlu disediakan sebelum kamu memulai!
 3. Telegram (Untuk nyari IP)
 4. Waktu Luang 
 
-## Cara Mendapatkan AccountID
-Liat pada link 
+## Cara Mendapatkan AccountID (CloudFlare)
+Masuk ke cloudflare.com
+Liat pada link berikut
 
-https://dash.cloudflare.com/inicontoh
+https://dash.cloudflare.com/dbwa6edf7236ef21372dvywd
 
-akun idnya = inicontoh
+akun idnya = dbwa6edf7236ef21372dvywd
+
+*hanya contoh!
 
 ## Cara Mendapatkan TokenAPI
 Pergi ke halaman Worker and Pages > OverView 
