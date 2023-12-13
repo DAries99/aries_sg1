@@ -1,4 +1,4 @@
-#Halaman Asli Github ada dibawah!
+#Halaman Asli Github ada
 https://github.com/3Kmfi6HP/EDtunnel
 
 
