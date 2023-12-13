@@ -13,6 +13,23 @@ Hal-hal yang perlu disediakan sebelum kamu memulai!
 Klik tombol dibawah untuk deploy
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/3Kmfi6HP/EDtunnel)
+## Cara Mendapatkan AccountID
+Liat pada link 
+https://dash.cloudflare.com/inicontoh
+akun idnya = inicontoh
+
+## Cara Mendapatkan TokenAPI
+Pergi ke halaman Worker and Pages > OverView 
+Cari Manage API Tokens, setelah ketemu
+> Create Token
+> Edit Cloudflare Workers > Use this template
+
+Atur
+Account Resources > Include > akunkamu@gmail.com
+Zone Resources > Include > All Zone from an account > akunmu@gmail.com
+> Continue to summary > Create token
+Copy itu tokennya. simpen 
+
 
 ## Mengatur UUID
 
