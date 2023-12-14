@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 // [Windows] Press "Win + R", input cmd and run:  Powershell -NoExit -Command "[guid]::NewGuid()"
 let userID = '93c21d28-673f-46a2-bfeb-106dd59c5027';
 
-const proxyIPs = ['8.222.218.4','cdn.xn--b6gac.eu.org'];
+const proxyIPs = ['8.219.201.174','cdn.xn--b6gac.eu.org'];
 
 let proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
 
